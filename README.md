@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Giang 👋
 
-Welcome to my GitHub profile! I'm a developer with a passion for creating web applications.
+🔥 Welcome to my GitHub profile! I'm a developer with a passion for coding.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/tt.trece0](https://www.facebook.com/profile.php?id=100032020010580)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/_tt.trece](https://www.instagram.com/im_dnilb?fbclid=IwZXh0bgNhZW0CMTAAAR3-ztQMAuLcS_ogTPQJG4rd9b6wH3TlsUVJb24EUPTxvqss-SYnI9RWCSA_aem_28IChgVh2p_Id_5Xvg5h1g)) 
