@@ -2,9 +2,6 @@
 
 🕂🕂🕂 Welcome to my GitHub profile! 🕂🕂🕂
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/tt.trece0](https://www.facebook.com/profile.php?id=100032020010580)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/_tt.trece](https://www.instagram.com/im_dnilb?fbclid=IwZXh0bgNhZW0CMTAAAR3-ztQMAuLcS_ogTPQJG4rd9b6wH3TlsUVJb24EUPTxvqss-SYnI9RWCSA_aem_28IChgVh2p_Id_5Xvg5h1g)) 
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
@@ -25,5 +22,11 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## 🌐 Connect with Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)]([https://www.facebook.com/profile.php?id=100032020010580](https://www.facebook.com/nguyen.giang.76784)) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/im_dnilb?fbclid=IwZXh0bgNhZW0CMTAAAR3-ztQMAuLcS_ogTPQJG4rd9b6wH3TlsUVJb24EUPTxvqss-SYnI9RWCSA_aem_28IChgVh2p_Id_5Xvg5h1g)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)  
 
 ![Banner Image](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
