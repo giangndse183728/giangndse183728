@@ -24,7 +24,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## 🌐 Connect with Me:
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)]([https://www.facebook.com/profile.php?id=100032020010580](https://www.facebook.com/nguyen.giang.76784)) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.giang.76784)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/im_dnilb?fbclid=IwZXh0bgNhZW0CMTAAAR3-ztQMAuLcS_ogTPQJG4rd9b6wH3TlsUVJb24EUPTxvqss-SYnI9RWCSA_aem_28IChgVh2p_Id_5Xvg5h1g)  
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)  
 
