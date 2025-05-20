@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs"/></td>
     <td>
