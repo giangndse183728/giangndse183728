@@ -56,7 +56,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs"/></td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=anii693&theme=dark&hide_border=true" alt="Streak Stats"/>
-      <br/>
       <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
     </td>
   </tr>
