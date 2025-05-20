@@ -10,8 +10,11 @@
 - 👨🏽‍💻 I’m a Frontend Developer passionate about UI.
 - 🌱 I’m currently focused on building responsive and user-friendly web interfaces
   with modern frontend technologies.
+- 👀 I have a keen eye for aesthetics and design details.
+- ⚡ I adapt quickly and love learning new tools and technologies fast.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at nguyendonggiang6.6@gmail.com
+
 </pre>
 
   - 📫 Email me at <a href="mailto:nguyendonggiang6.6@gmail.com">nguyendonggiang6.6@gmail.com</a>.
