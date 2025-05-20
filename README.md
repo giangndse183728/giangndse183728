@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi there, I'm <span style="color:#00BFFF">Nguyen Giang</span> 🕀</h1>
 <p align="center">🕂🕂🕂 Welcome to my GitHub profile! 🕂🕂🕂</p>
-<br />
+
 <p>
- <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230"" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="240"" />
  
   <strong>About Me!</strong><br><br>
   <pre>
