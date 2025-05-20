@@ -7,7 +7,7 @@
   <table>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230" />
+      <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230" />
     </td>
   </tr>
 </table>
