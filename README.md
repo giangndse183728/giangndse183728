@@ -5,7 +5,7 @@
 
 <p>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230"" />
- <br />
+ 
   <strong>About Me!</strong><br><br>
   <pre>
 - 👨🏽‍💻 I’m a Frontend Developer passionate about UI.
