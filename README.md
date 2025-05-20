@@ -23,8 +23,12 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.giang.76784)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/im_dnilb/)  
 
-![Banner Image](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
