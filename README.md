@@ -51,17 +51,11 @@
 
 ## 📊 GitHub Stats
 
-<table >
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs"/></td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=anii693&theme=dark&hide_border=true" alt="Streak Stats"/>
-       </td>
-     <td>
-      <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anii693&theme=dark&hide_border=true" alt="Streak Stats"/>
+  <img alt="Coding" width="280" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
+</div>
 
 ---
 
