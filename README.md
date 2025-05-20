@@ -3,13 +3,15 @@
 <p align="center">🕂🕂🕂 Welcome to my GitHub profile! 🕂🕂🕂</p>
 
 <p>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" style="margin-left: 20px;"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" style="margin-left: 20px;" />
   <strong>About Me!</strong><br><br>
-  - 👨🏽‍💻 I’m currently an ISE Undergrad student at RNS Institute of Technology, Bangalore<br>
-  - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts.<br>
+  - 👨🏽‍💻 I’m a Frontend Developer passionate about UI.<br>
+  - 🌱 I’m currently focused on building responsive and user-friendly web interfaces with modern frontend technologies.
   - 💬 Ask me about anything, I love to answer!<br>
-  - 📫 Email me at <a href="mailto:phoenix2810@protonmail.com">phoenix2810@protonmail.com</a>.
+  - 📫 Email me at <a href="mailto:nguyendonggiang6.6@gmail.com">nguyendonggiang6.6@gmail.com</a>.
 </p>
+
+<div style="clear: both;"></div> 
 
 <hr/>
 
