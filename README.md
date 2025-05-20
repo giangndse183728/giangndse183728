@@ -59,7 +59,7 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=anii693&theme=dark&hide_border=true" alt="Streak Stats"/>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+
     </td>
   </tr>
 </table>
