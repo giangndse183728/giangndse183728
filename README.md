@@ -4,7 +4,7 @@
 <p align="center">🕂🕂🕂 Welcome to my GitHub profile! 🕂🕂🕂</p>
 
 <p>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230" style="margin-left: 20px;" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230"  style="margin-left: 20px; border: 2px solid #00BFFF; border-radius: 8px;" />
   <strong>About Me!</strong><br><br>
   <pre>
 - 👨🏽‍💻 I’m a Frontend Developer passionate about UI.
