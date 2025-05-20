@@ -79,7 +79,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=giangndse183728&theme=dark&hide_border=true" alt="Streak Stats" style="display: inline-block;" />
     </td>
     <td style="padding: 0; vertical-align: middle;">
-      <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="display: inline-block;" />
+      <img src="https://streak-stats.demolab.com/?user=giangndse183728&theme=dark&hide_border=true" alt="Streak Stats" style="display: inline-block;" />
     </td>
   </tr>
 </table>
