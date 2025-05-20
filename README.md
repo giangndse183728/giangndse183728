@@ -9,6 +9,7 @@
 ### 🧠 Languages & Markup
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -52,11 +53,16 @@
 
 <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<br><br><br><br><br><br><br><br>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs"/></td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=anii693&theme=dark&hide_border=true" alt="Streak Stats"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
