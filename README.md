@@ -11,10 +11,9 @@
   - 📫 Email me at <a href="mailto:nguyendonggiang6.6@gmail.com">nguyendonggiang6.6@gmail.com</a>.
 </p>
 
-<div style="clear: both;"></div> 
-
-<hr/>
-### 
+<br />
+<br />
+<br />
 
 ## 🚀 Tech Stack
 
