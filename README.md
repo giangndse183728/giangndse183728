@@ -1,13 +1,12 @@
-<!-- Profile Header -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi there, I'm <span style="color:#00BFFF">Nguyen Giang</span> 🕀</h1>
 <p align="center">🕂🕂🕂 Welcome to my GitHub profile! 🕂🕂🕂</p>
 
 <p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="240" style="margin-left: 20px;" />
   <strong>About Me!</strong><br><br>
-  - 👨🏽‍💻 I’m a Frontend Developer passionate about UI.<br>
-  - 🌱 I’m currently focused on building responsive and user-friendly web interfaces <br> with modern frontend technologies.<br> 
-  - 💬 Ask me about anything, I love to answer!<br>
+<pre> ```plaintext - 👨🏽‍💻 I’m a Frontend Developer passionate about UI. - 🌱 I’m currently focused on building responsive and user-friendly web interfaces with modern frontend technologies. - 💬 Ask me about anything, I love to answer! - 📫 Email me at nguyendonggiang6.6@gmail.com ``` </pre>
   - 📫 Email me at <a href="mailto:nguyendonggiang6.6@gmail.com">nguyendonggiang6.6@gmail.com</a>.
 </p>
 
