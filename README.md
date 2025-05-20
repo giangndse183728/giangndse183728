@@ -6,7 +6,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" style="margin-left: 20px;" />
   <strong>About Me!</strong><br><br>
   - 👨🏽‍💻 I’m a Frontend Developer passionate about UI.<br>
-  - 🌱 I’m currently focused on building responsive <br> and user-friendly web interfaces with modern frontend technologies.<br> 
+  - 🌱 I’m currently focused on building responsive and user-friendly web interfaces <br> with modern frontend technologies.<br> 
   - 💬 Ask me about anything, I love to answer!<br>
   - 📫 Email me at <a href="mailto:nguyendonggiang6.6@gmail.com">nguyendonggiang6.6@gmail.com</a>.
 </p>
