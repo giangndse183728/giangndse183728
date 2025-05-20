@@ -73,10 +73,10 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="white-space: nowrap;">
     <td style="padding: 0; vertical-align: middle;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giangndse183728&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" width="300" style="display: inline-block;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giangndse183728&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" width="400" style="display: inline-block;" />
     </td>
     <td style="padding: 0; vertical-align: middle;">
-      <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="display: inline-block;" />
+      <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="display: inline-block;" />
     </td>
   </tr>
 </table>
